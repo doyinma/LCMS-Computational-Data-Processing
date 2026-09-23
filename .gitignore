@@ -1,0 +1,11 @@
+# Byte-compiled / Python cache
+__pycache__/
+*.py[cod]
+
+# Excel files / Large datasets
+*.xlsx
+*.xls
+
+# Virtual environments
+venv/
+.venv/
